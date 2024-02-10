@@ -1,48 +1,38 @@
 # Advancements in Occupant and Driver Monitoring: Leveraging AI/ML in Automotive Safety
 
-## Workshop Overview
-This workshop will provide a comprehensive look into the latest developments in Occupant Monitoring Solutions (OMS) and Driver Monitoring Solutions (DMS). Focused on the integration of advanced AI and ML tools, it aims to explore innovative methods in enhancing vehicular safety and efficiency.
+##  Overview
+# Call for Papers: International Workshop on Driver Monitoring Systems Using Machine Learning
 
-## Objectives
-1. To showcase the latest trends and developments in OMS and DMS.
-2. To discuss the application of AI/ML tools in enhancing automotive safety systems.
-3. To provide hands-on experience with cloudtools for building effective monitoring solutions.
+In an era marked by rapid advancements in machine learning, sensor technology, information processing, and control systems, the domain of Intelligent Transport Systems (ITS) has witnessed significant progress. The nascent field of Automated Vehicle Safety(AVS) stands at the brink of deployment, offering a glimpse into the future of automated driving. As we edge closer to realizing high levels of automation in driving, particularly in the intricate web of urban environments, the need for innovative solutions to ensure safety, comfort, and efficiency becomes paramount. Recognizing the symbiotic relationship in automated transport, and the myriad challenges that lie ahead, we are excited to announce the call for papers for the International Workshop on Driver Monitoring Systems Using Machine Learning.
 
-## Target Audience
-- Researchers and professionals in automotive safety.
-- AI and ML enthusiasts and practitioners.
-- Students and academics interested in vehicular technology and machine learning applications.
+This workshop aims to bridge the gap between the potential of machine learning technologies and their application in driver monitoring systems to enhance the safety and efficiency of automated and semi-automated vehicles. As driver monitoring systems become increasingly crucial in the transition towards fully automated driving, this workshop provides a platform for researchers, industry professionals, and stakeholders to converge, share insights, and explore the latest developments in machine learning applications for driver monitoring.
 
-## Workshop Schedule
+## Topics of Interest
+We invite submissions of original research papers, case studies, and review articles that address, but are not limited to, the following topics:
+- Machine learning algorithms for driver behavior analysis and prediction
+- Sensor technologies and data fusion for in-vehicle monitoring systems
+- Real-time detection of driver distraction and fatigue
+- Integration of driver monitoring systems with automated driving technologies
+- Impact of driver monitoring on vehicle safety and traffic efficiency
+- Ethical considerations and privacy concerns in driver monitoring
+- Deployment challenges and solutions for driver monitoring systems 
+- Case studies on the implementation and effectiveness of driver monitoring systems
 
-### Session 1: Introduction to OMS and DMS
+## Industry discussion
+The workshop will also feature an Industry talk, bringing together experts from AWS and Intel. This panel will facilitate a valuable exchange highlighting practical challenges and opportunities in the deployment of driver monitoring systems.
+
+## Submission Guidelines
+Prospective authors are invited to submit full papers according to the guidelines provided on our website. Submissions should be original and not previously published or under consideration for publication elsewhere. Papers will be reviewed by a panel of experts in the field based on originality, technical and/or research content, relevance, and clarity.
+
+Organizer contact Andy Shahbazian :Senior PSA, Amazon Web Services : andyshah@amazon.comn
+
+Join us in advancing the field of driver monitoring systems through the innovative application of machine learning technologies. Together, we can pave the way for safer, more efficient, and intelligent transportation systems. We look forward to your contributions and participation in what promises to be a groundbreaking workshop.
+
+## Workshop 
+
+###  Introduction to OMS and DMS
 - Overview of Occupant and Driver Monitoring in the Automotive Industry.
 - The role of AI/ML in enhancing OMS and DMS.
 
-### Session 2: Deep Dive into AI/ML Tools for OMS and DMS
-- Introduction to PyTorch and its applications in OMS/DMS.
-- Overview of Amazon SageMaker for scalable ML solutions.
 
-### Session 3: Hands-on Session with PyTorch and SageMaker
-- Building a basic occupant monitoring model using PyTorch.
-- Deploying and testing the model on Amazon SageMaker.
 
-### Session 4: Guest Speakers and Case Studies
-- Presentations by experts in the field of automotive safety and AI.
-- Discussion of real-world applications and case studies.
-
-### Session 5: Paper Presentations and Discussions
-- Selected paper presentations by participants.
-- Open discussion and Q&A session.
-
-## Workshop Materials
-- Pre-workshop readings and resources.
-- Access to PyTorch notebooks and SageMaker instances for hands-on sessions.
-- Post-workshop follow-up materials and additional resources.
-
-## Submission Requirements for Participants
-- Abstracts for paper presentations.
-- Proposals for case studies or technical demonstrations.
-
-## Conclusion
-The workshop will conclude with a panel discussion on the future of automotive safety technology, emphasizing the role of AI/ML in advancing OMS and DMS.
