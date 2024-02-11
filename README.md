@@ -24,7 +24,7 @@ The workshop will also feature an Industry talk, bringing together experts from 
 ## Submission Guidelines
 Prospective authors are invited to submit full papers according to the guidelines provided on our website. Submissions should be original and not previously published or under consideration for publication elsewhere. Papers will be reviewed by a panel of experts in the field based on originality, technical and/or research content, relevance, and clarity.
 
-Organizer contact Andy Shahbazian :Senior PSA, Amazon Web Services : andyshah@amazon.comn
+Organizer contact Andy Shahbazian :Senior PSA, Amazon Web Services : andyshah@amazon.com
 
 Join us in advancing the field of driver monitoring systems through the innovative application of machine learning technologies. Together, we can pave the way for safer, more efficient, and intelligent transportation systems. We look forward to your contributions and participation in what promises to be a groundbreaking workshop.
 
