@@ -36,7 +36,9 @@ Prospective authors are invited to submit full papers according to the guideline
 
 Join us in advancing the field of driver monitoring systems through the innovative application of machine learning technologies. Together, we can pave the way for safer, more efficient, and intelligent transportation systems. We look forward to your contributions and participation in what promises to be a groundbreaking workshop.
 
-**##  Featured Speakers**
+##Featured Speakers
+
+
 
 #### Andy Shahbazian
 ![Mr. Andy Shahbazian]({{site.baseurl}}/me2.jpeg)
