@@ -40,6 +40,7 @@ Join us in advancing the field of driver monitoring systems through the innovati
 
 #### Andy Shahbazian
 ![Mr. Andy Shahbazian]({{site.baseurl}}/me2.jpeg)
+
 - **Position**: Senior Solution Architect, Autonomous Vehicles
 - **Affiliation**: Amazon Web Services (AWS) , California State Univesity
 - **Bio**: Andy has over a decade of experience in autonomous research, focusing on the integration of AI and machine learning technologies to enhance autonomous vehicle systems. Andy has published  papers about networks orchestraion in leading scientific journals and has been a keynote speaker at numerous international conferences on virtualization, automotive safety and AI technology.
