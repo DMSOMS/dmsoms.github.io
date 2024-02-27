@@ -39,13 +39,13 @@ Join us in advancing the field of driver monitoring systems through the innovati
 **##  Featured Speakers**
 
 #### Andy Shahbazian
-({{site.baseurl}}/me2.jpeg)
+![Mr. Andy Shahbazian]({{site.baseurl}}/me2.jpeg)
 - **Position**: Senior Solution Architect, Autonomous Vehicles
 - **Affiliation**: Amazon Web Services (AWS) , California State Univesity
 - **Bio**: Andy has over a decade of experience in autonomous research, focusing on the integration of AI and machine learning technologies to enhance autonomous vehicle systems. Andy has published  papers about networks orchestraion in leading scientific journals and has been a keynote speaker at numerous international conferences on virtualization, automotive safety and AI technology.
 
 #### Ignacio Alvarez
-({{site.baseurl}}/ignacio.png)
+![Ignacio Alvarez]({{site.baseurl}}/ignacio.png)
 - **Position**: Principal engineer in automated driving at Intel Labs
 - **Affiliation**: Intel
 - **Bio**:  Dr. Ignacio Alvarez  is a technical assistant to Intel Labs Director. Intel Labs, the research arm of Intel Corporation.  He has lead R&D and product development in Europe, Asia and America. A recognized IEEE Senior Member, contributed to standards in the fields of autonomous vehicle safety and connected vehicles. He is an avid inventor with 80+ issued patents and over 130 patents pending.
