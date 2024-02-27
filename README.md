@@ -24,34 +24,24 @@ The workshop will also feature an Industry panel talk, bringing together experts
 ## Submission Guidelines
 Prospective authors are invited to submit full papers according to the guidelines provided on our website. Submissions should be original and not previously published or under consideration for publication elsewhere. Papers will be reviewed by a panel of experts in the field based on originality, technical and/or research content, relevance, and clarity.
 
-Organizer contact Andy Shahbazian :Senior PSA, Amazon Web Services : andyshah@amazon.com
-
 Join us in advancing the field of driver monitoring systems through the innovative application of machine learning technologies. Together, we can pave the way for safer, more efficient, and intelligent transportation systems. We look forward to your contributions and participation in what promises to be a groundbreaking workshop.
 
-## Submission Guidelines
 
-Prospective authors are invited to submit full papers according to the guidelines provided on our website. Submissions should be original and not previously published or under consideration for publication elsewhere. Papers will be reviewed by a panel of experts in the field based on originality, technical and/or research content, relevance, and clarity.
-
+## Featured Speakers
 
 
-Join us in advancing the field of driver monitoring systems through the innovative application of machine learning technologies. Together, we can pave the way for safer, more efficient, and intelligent transportation systems. We look forward to your contributions and participation in what promises to be a groundbreaking workshop.
-
-##Featured Speakers
-
-
-
-#### Andy Shahbazian
+#### Mr. Andy Shahbazian
 ![Mr. Andy Shahbazian]({{site.baseurl}}/me2.jpeg)
 
-- **Position**: Senior Solution Architect, Autonomous Vehicles
-- **Affiliation**: Amazon Web Services (AWS) , California State Univesity
-- **Bio**: Andy has over a decade of experience in autonomous research, focusing on the integration of AI and machine learning technologies to enhance autonomous vehicle systems. Andy has published  papers about networks orchestraion in leading scientific journals and has been a keynote speaker at numerous international conferences on virtualization, automotive safety and AI technology.
+- **Position**: Senior Solution Architect, Autonomous Vehicles.
+- **Affiliation**: Amazon Web Services (AWS) , California State Univesity.
+- **Bio**: Andy has over a decade of experience in autonomous research, focusing on the integration of AI and machine learning technologies to enhance autonomous vehicle systems. Andy has published  papers about motes networks orchestraion in leading scientific journals and has been a keynote speaker at numerous international conferences on automotive and AI technologies.
 
-#### Ignacio Alvarez
+#### Dr. Ignacio Alvarez
 ![Ignacio Alvarez]({{site.baseurl}}/ignacio.png)
-- **Position**: Principal engineer in automated driving at Intel Labs
-- **Affiliation**: Intel
-- **Bio**:  Dr. Ignacio Alvarez  is a technical assistant to Intel Labs Director. Intel Labs, the research arm of Intel Corporation.  He has lead R&D and product development in Europe, Asia and America. A recognized IEEE Senior Member, contributed to standards in the fields of autonomous vehicle safety and connected vehicles. He is an avid inventor with 80+ issued patents and over 130 patents pending.
+- **Position**: Principal engineer in automated driving at Intel Labs.
+- **Affiliation**: Intel Labs.
+- **Bio**:  Dr. Ignacio Alvarez  is a Principal engineer atIntel Labs, the research arm of Intel Corporation.  He has lead R&D and product development in Europe, Asia and America. A recognized IEEE Senior Member, contributed to standards in the fields of autonomous vehicle safety and connected vehicles. He is an avid inventor with 80+ issued patents and over 130 patents pending.
 
 
 ## Workshop 
