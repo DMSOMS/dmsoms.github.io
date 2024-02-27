@@ -35,13 +35,13 @@ Join us in advancing the field of driver monitoring systems through the innovati
 
 - **Position**: Senior Solution Architect, Autonomous Vehicles.
 - **Affiliation**: Amazon Web Services (AWS), California State Univesity.
-- **Bio**: Andy has over a two decade of experience in Information systems and autonomous technology, focusing on the integration of AI and machine learning technologies to enhance autonomous vehicle systems. Andy has published  papers about Big data and IoT orchestraion in leading scientific journals and has been a keynote speaker at numerous international conferences on automotive and AI technologies.
+- **Bio**: Andy boasts more than two decades of experience in Information Systems and autonomous technologies, with a specialized focus on leveraging AI and machine learning technologies to improve autonomous vehicle systems. He has authored numerous papers on Big Data and IoT orchestration, featured in leading scientific journals. Furthermore, Andy is a recognized figure on the international conference circuit, where he has frequently delivered keynote speeches on automotive and AI technologies. 
 
 #### Dr. Ignacio Alvarez
 ![Ignacio Alvarez]({{site.baseurl}}/ignacio.png)
 - **Position**: Principal engineer in automated driving at Intel Labs.
 - **Affiliation**: Intel Labs.
-- **Bio**:  Dr. Ignacio Alvarez is a Principal engineer atIntel Labs, the research arm of Intel Corporation.  He has lead R&D and product development in Europe, Asia and America. A recognized IEEE Senior Member, contributed to standards in the fields of autonomous vehicle safety and connected vehicles. He is an avid inventor with 80+ issued patents and over 130 patents pending.
+- **Bio**:  Dr. Ignacio Alvarez is a Principal engineer atIntel Labs, the research arm of Intel Corporation.  He has lead R&D and product development in Europe, Asia and America. A recognized IEEE Senior Member, contributed to standards in the fields of autonomous vehicle safety and connected vehicles. He is an avid inventor with 80+ issued patents and over 130 patents pending. Dr. Alvarez has published over 50 peer-reviewed papers, edited 3 books in Automotive Engineering. 
 
 ## Workshop 
 
